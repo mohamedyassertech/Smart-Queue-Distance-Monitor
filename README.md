@@ -2,6 +2,8 @@
 
 A simple ESP32 project that helps maintain personal space in lines and crowded areas!
 
+> **Note:** This project was designed, wired, and simulated online using **Cirkit Designer**.
+
 ---
 
 ## What is this project?
